@@ -1,0 +1,8 @@
+artifacts/*
+src/cncClassifier/config/__pycache__/
+src/cncClassifier/constants/__pycache__/
+src/cncClassifier/entity/__pycache__/
+src/cncClassifier/pipeline/__pycache__/
+src/cncClassifier/utils/__pycache__/
+src/cncClassifier/__pycache__/
+src/cncClassifier/components/__pycache__/

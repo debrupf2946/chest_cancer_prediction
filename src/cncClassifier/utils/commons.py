@@ -4,10 +4,12 @@ import yaml
 from src.cncClassifier import logger
 import json
 import joblib
-from box import config_box
+from ensure import ensure_annotations
+from box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
+
 
 
 @ensure_annotations
